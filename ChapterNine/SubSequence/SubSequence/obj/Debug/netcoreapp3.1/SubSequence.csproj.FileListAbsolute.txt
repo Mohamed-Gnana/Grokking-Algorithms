@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubSequence\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.genruntimeconfig.cache

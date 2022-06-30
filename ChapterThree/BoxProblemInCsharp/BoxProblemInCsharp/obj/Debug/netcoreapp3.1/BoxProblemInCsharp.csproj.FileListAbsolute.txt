@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\bin\Debug\netcoreapp3.1\BoxProblemInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\BoxProblemInCsharp\BoxProblemInCsharp\obj\Debug\netcoreapp3.1\BoxProblemInCsharp.genruntimeconfig.cache

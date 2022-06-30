@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\bin\Debug\netcoreapp3.1\ClassScheduleGready.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\ClassScheduleGready\ClassScheduleGready\obj\Debug\netcoreapp3.1\ClassScheduleGready.genruntimeconfig.cache

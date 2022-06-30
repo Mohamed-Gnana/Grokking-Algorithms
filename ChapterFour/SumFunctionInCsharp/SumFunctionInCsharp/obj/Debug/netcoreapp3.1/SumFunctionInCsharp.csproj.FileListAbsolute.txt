@@ -1,0 +1,12 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\bin\Debug\netcoreapp3.1\SumFunctionInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\SumFunctionInCsharp\SumFunctionInCsharp\obj\Debug\netcoreapp3.1\SumFunctionInCsharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\bin\Debug\netcoreapp3.1\SetCoveringProblem.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\SetCoveringProblem\SetCoveringProblem\obj\Debug\netcoreapp3.1\SetCoveringProblem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\bin\Debug\netcoreapp3.1\QuickSortInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.genruntimeconfig.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\QuickSortInCsharp\QuickSortInCsharp\obj\Debug\netcoreapp3.1\QuickSortInCsharp.csproj.AssemblyReference.cache

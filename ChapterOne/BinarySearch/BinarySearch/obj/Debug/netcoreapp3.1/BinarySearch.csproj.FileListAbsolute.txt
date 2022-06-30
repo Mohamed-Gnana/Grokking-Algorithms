@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterOne\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

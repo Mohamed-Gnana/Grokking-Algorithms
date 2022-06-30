@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\bin\Debug\netcoreapp3.1\FieldBoxesInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFour\FieldBoxesInCsharp\FieldBoxesInCsharp\obj\Debug\netcoreapp3.1\FieldBoxesInCsharp.genruntimeconfig.cache

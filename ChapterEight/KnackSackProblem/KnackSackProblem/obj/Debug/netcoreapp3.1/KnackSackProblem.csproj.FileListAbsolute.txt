@@ -1,0 +1,12 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\bin\Debug\netcoreapp3.1\KnackSackProblem.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterEight\KnackSackProblem\KnackSackProblem\obj\Debug\netcoreapp3.1\KnackSackProblem.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\bin\Debug\netcoreapp3.1\TripToLondon.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\TripToLondon\TripToLondon\obj\Debug\netcoreapp3.1\TripToLondon.genruntimeconfig.cache

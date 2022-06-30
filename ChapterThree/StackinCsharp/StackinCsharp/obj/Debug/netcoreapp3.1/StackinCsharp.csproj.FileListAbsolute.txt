@@ -1,0 +1,12 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\bin\Debug\netcoreapp3.1\StackinCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterThree\StackinCsharp\StackinCsharp\obj\Debug\netcoreapp3.1\StackinCsharp.genruntimeconfig.cache

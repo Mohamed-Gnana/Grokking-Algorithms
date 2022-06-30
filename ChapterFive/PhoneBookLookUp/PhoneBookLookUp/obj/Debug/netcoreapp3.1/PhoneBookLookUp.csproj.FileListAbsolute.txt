@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\bin\Debug\netcoreapp3.1\PhoneBookLookUp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterFive\PhoneBookLookUp\PhoneBookLookUp\obj\Debug\netcoreapp3.1\PhoneBookLookUp.genruntimeconfig.cache

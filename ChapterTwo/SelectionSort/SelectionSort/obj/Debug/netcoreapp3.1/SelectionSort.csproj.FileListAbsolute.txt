@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

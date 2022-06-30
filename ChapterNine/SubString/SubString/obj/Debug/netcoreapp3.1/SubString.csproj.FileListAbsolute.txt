@@ -1,0 +1,12 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\bin\Debug\netcoreapp3.1\SubString.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterNine\SubString\SubString\obj\Debug\netcoreapp3.1\SubString.genruntimeconfig.cache

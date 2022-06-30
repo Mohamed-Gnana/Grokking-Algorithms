@@ -1,0 +1,13 @@
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.exe
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.deps.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.runtimeconfig.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.runtimeconfig.dev.json
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\bin\Debug\netcoreapp3.1\LinkedListInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.csproj.AssemblyReference.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.AssemblyInfoInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.AssemblyInfo.cs
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.csproj.CoreCompileInputs.cache
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.dll
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.pdb
+E:\Education\BooksSummaries\GrokkingAlgorithms\ChapterTwo\LinkedListInCsharp\LinkedListInCsharp\obj\Debug\netcoreapp3.1\LinkedListInCsharp.genruntimeconfig.cache
